@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "cardNumber": "***** **** **** 0080",
+    "selected": true
+  },
+  {
+    "id": 2,
+    "cardNumber": "***** **** **** 0034",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "cardNumber": "***** **** **** 0053",
+    "selected": false
+  }
+]
