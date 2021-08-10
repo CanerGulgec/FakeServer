@@ -1,7 +1,7 @@
 {
   "cards": [
     { "id": 1, "cardNumber": "***** **** **** 0080", "selected": true },
-    { "id": 1, "cardNumber": "***** **** **** 0080", "selected": true },
-    { "id": 1, "cardNumber": "***** **** **** 0080", "selected": true }
+    { "id": 1, "cardNumber": "***** **** **** 0045", "selected": true },
+    { "id": 1, "cardNumber": "***** **** **** 0053", "selected": true }
   ]
 }
