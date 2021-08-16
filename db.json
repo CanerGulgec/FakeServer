@@ -2,5 +2,22 @@
   "cards": [
     { "id": 1, "cardNumber": "***** **** **** 0080", "selected": true },
     { "id": 2, "cardNumber": "***** **** **** 0045", "selected": false }
+  ],
+    "reviews": [
+    { "id": 1, "review": "First review", "rating": 5 },
+    { "id": 2, "review": "Second review", "rating": 4 },
+    { "id": 3, "review": "Third review", "rating": 3 },
+    { "id": 4, "review": "Fourth review", "rating": 5 },
+    { "id": 5, "review": "Fifth review", "rating": 4 },
+    { "id": 6, "review": "Sixth review", "rating": 5 },
+    { "id": 7, "review": "İşinin ehli güler yüzlü hizmet, herkese tavsiye ederim", "rating": 3 },
+    { "id": 8, "review": "Musterilerini baklavayla karsilayan dükkan", "rating": 3 },
+    { "id": 9, "review": "New review", "rating": 5 },
+    { "id": 10, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 4 },
+    { "id": 11, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 2 },
+    { "id": 12, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 5 },
+    { "id": 13, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 1 },  
+    { "id": 14, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 1 },
+    { "id": 15, "review": "Mükemmel hizmet mükemmel kalite güler yüz bundan sonra her daim bu servisteyim.", "rating": 3 }
   ]
 }
